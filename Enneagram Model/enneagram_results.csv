@@ -1,0 +1,217 @@
+,0,1,2,3,4,5,6,7,8,9
+0,While addressing others' needs you are: Inflexible and stick to your needs,0,0,3,0,0,1,2,3,-1
+1,While addressing others' needs you are: Flexible and alter your needs to make others happy,0,3,0,0,0,0,0,0,3
+2,You are self sufficient in the sense : Completely independent of others,0,0,0,0,0,-2,0,-1,3
+3,You are self sufficient in the sense : Interdependent and connected with others,0,3,0,0,0,0,0,0,3
+4,In your dealings you :  Overcome your personal terms and follow principles to do what is right,3,0,0,0,0,0,-1,0,0
+5,"In your dealings you :  Prefer personal terms, sometimes not going by principles",0,0,0,0,0,0,-1,0,0
+6,Your drive to improve comes from: Inner critic to do what is judged as right,0,0,0,0,0,0,0,0,0
+7,Your drive to improve comes from: Drive to succeed and be recognized for your accomplishments,0,0,3,0,0,0,0,3,-1
+8,In the process of achieving a goal : You find the method to do it perfectly and stick to it until it succeeds,3,0,0,0,3,1,-1,3,0
+9,"In the process of achieving a goal : You find the most efficient/ fastest possible method and in case it doesnot work , you change the method quickly to achieve the desired result",3,0,3,0,3,3,-1,3,0
+10,While irritated or emotionally disturbed at work You tend to express your emotions openly and people are easily aware of it,0,-1,0,3,0,0,0,0,0
+11,While irritated or emotionally disturbed at work You are not usually distracted by your feelings without people being aware of your emotional state,0,-1,0,-3,0,0,0,0,0
+12,You tend to Suppress personal desires and become self constrained,0,3,0,0,0,-2,0,0,0
+13,You tend to Experience strong personal desires to the point of being self-absorbed (disconnected from outside world),0,0,0,3,0,0,0,0,0
+14,You Focus on responsibilities before emotions,0,0,0,0,0,0,0,0,0
+15,You Sort out emotions and then complete duties effectively,-2,0,0,0,-2,-2,2,3,1
+16,"You get irritated of others when They are inefficient ,sloppy",-2,0,0,0,-2,0,0,0,1
+17,You get irritated of others when They are insensitive to oneself and you,0,-1,0,0,0,0,0,0,0
+18,You tend to suppress your desires or detach from feelings to To improve yourself and others,0,3,0,3,0,0,0,0,0
+19,You tend to suppress your desires or detach from feelings to To protect yourself from being intruded and conserve your energy,-2,-1,0,0,0,0,0,0,0
+20,You tend to judge people on Activities governed by their internal standards of right and wrong,3,0,0,0,0,0,0,0,0
+21,"You tend to judge people on Intellectual matters,knowledge and competence",0,0,0,0,0,0,2,0,0
+22,How do you deal with people who you think are wrong or whom you do not like you are convinced why you are correct and make efforts to make people understand that,-2,-1,0,-3,-2,0,2,0,0
+23,How do you deal with people who you think are wrong or whom you do not like You are not certain about your views and do not worry much if they do not agree with your view,3,0,0,0,0,0,0,0,0
+24,How do you prevent yourself from committing mistakes?  Comparing things to find out what is correct in order to avoid criticism,0,0,0,-3,0,1,0,0,0
+25,How do you prevent yourself from committing mistakes?  Doubting and trying to find out the potential threats in order to gain sense of safety and security,3,0,0,0,3,3,0,0,-1
+26,While taking decisions you are Mostly sure and have one right way of doing something,-2,0,0,0,-2,-2,-1,-1,0
+27,While taking decisions you are generally unsure of the way to take and consider many ways of doing something,0,0,0,0,-2,-2,-1,0,0
+28,How do you deal with your negative feelings You can control negative feelings and keep negative feelings at bay  ,0,-1,0,0,0,0,0,-1,0
+29,How do you deal with your negative feelings You find it difficult to ignore negative feelings ,0,-1,0,-3,0,0,0,-1,0
+30,How do you deal with your desires? You are self restrained and limit your desires,0,-1,0,0,0,0,0,1,0
+31,How do you deal with your desires? You are are fun loving and strongly dislike limits on your desires,0,-1,0,0,0,0,-3,0,0
+32,"How do you like to lead your life? Be self controlled,focussed , do not like to deviate from careful preparations/plans and particular about time and procedures,reserved",0,-1,0,0,-1,0,0,0,0
+33,"How do you like to lead your life? Be adventurous,spontaneous, follow your inspiration and do not like to stick to plans,not particular about procedures,open minded,flexible",0,0,0,-3,-1,0,-1,-1,0
+34,"How do you perceive your future? You know your mission clearly and have set high standards for achieving it , thus expect to be disappointed,practical",2,0,0,0,0,1,2,3,0
+35,"How do you perceive your future? Your mission is a feeling/desire and you hope that you will achieve it , think positive,optimistic",3,0,-2,0,0,0,2,3,0
+36,How do you deal with anger? You suppress anger and shows it when you think it is right,-2,-1,0,0,0,0,0,0,3
+37,How do you deal with anger? You express your anger on the spot and openly,0,0,0,0,0,0,0,-1,-3
+38,What according to you makes people agree to your views/how do you do it? You put logical reasons and arguments and try to convince them,3,0,0,0,3,1,2,1,-1
+39,"What according to you makes people agree to your views/how do you do it? You rely on your self confidence and sheer personality,engaging them with gusty conversations",0,0,0,0,0,0,0,3,0
+40,What is the first step in establishing justice according to you? To reward those who do good and punish the wrongdoers.,3,0,0,0,0,0,-1,0,0
+41,What is the first step in establishing justice according to you? To establish equality in terms of power/authority,3,0,0,0,0,0,0,0,0
+42,"You Are not easily convinced to take a break,do not allow yourself to be unproductive",0,0,0,0,-1,0,-1,0,0
+43,You Are easily convinced to take a break from work which will be useful,0,0,0,0,0,0,2,-2,1
+44,You Do not compromise with your principles to avoid conflicts,3,0,0,0,0,0,0,0,-1
+45,You Do not want to get into conflicts with your loved ones and hold on your strong opinions to yourself,0,-1,0,0,0,0,0,0,1
+46,"You Hold on to your principles and ideals, always want to improve others and press for change",3,0,0,0,0,0,-1,0,-1
+47,You Go along with others agendas and are more adaptable to their views and often lose sight of your own view,3,0,0,0,0,0,-1,0,0
+48,Your focus is primarily on: Relationships and others’ needs and feelings,0,3,0,0,0,0,0,0,0
+49,Your focus is primarily on: Tasks and on completing goals,0,0,3,0,0,0,2,3,0
+50,What type of relationships do you prefer Close and intimate,0,-1,0,0,0,0,0,0,0
+51,"What type of relationships do you prefer Ordinary relationships, close relationships make you uncomfortable at times",0,-1,0,0,0,3,0,0,0
+52,People are attracted towards you because of Your friendly nature and that you give attention to their feelings,-2,-1,0,0,0,0,0,0,0
+53,People are attracted towards you because of Your outstanding way of work and dealing with things,-2,3,0,0,0,0,0,0,0
+54,You Tend to move towards others and engage them,-2,0,0,0,-2,0,-1,0,0
+55,You Tend to withdraw from others hoping they would seek you,0,-1,0,0,0,-2,0,-2,3
+56,You Look for people to rescue them,0,-1,0,0,0,0,0,0,-3
+57,You Look for someone to rescue you,0,-1,0,0,0,0,0,-1,-3
+58,You focus on and are aware of Others’ feelings and unaware of your needs,0,3,0,0,0,0,0,0,0
+59,You focus on and are aware of Your feelings and fail to recognize your impact on others,0,3,0,-3,0,0,0,0,0
+60,You are Emotionally expressive and people oriented,0,0,0,3,0,0,0,0,0
+61,You are Emotionally detached and loners,0,-1,0,0,0,0,0,0,0
+62,If you are rejected by people you cope by Winning over them,0,-1,0,0,0,3,-1,0,0
+63,If you are rejected by people you cope by Detaching and isolating yourself,0,-1,0,0,0,3,-1,0,0
+64,Which one do you appreciate more in people Feelings,0,3,0,3,0,0,0,0,3
+65,Which one do you appreciate more in people Intellectual approaches and conceptual thinking,0,0,0,3,-2,0,2,0,0
+66,In a relationship you want Love and sense of self worth,0,-1,0,0,0,0,0,0,0
+67,In a relationship you want Certainty and security,-2,3,0,0,0,0,2,0,0
+68,What do you want more To be loved and to be important to others,0,3,0,3,0,0,0,0,0
+69,What do you want more Approval and support of others,2,3,0,0,0,3,0,3,3
+70,"In a new relationship or friendship you Welcome others and focus on their feelings, sometimes losing on your feelings",0,-1,0,-3,0,0,-1,0,0
+71,In a new relationship or friendship you Welcome others but also doubt thems and protect yourself,0,-1,0,0,0,1,0,0,3
+72,"You orient primarily towards Others needs, feelings and wants and alter yourself to meet them",0,-1,0,0,0,0,-1,0,0
+73,You orient primarily towards Your feelings and likes and want to pursue them,0,3,0,0,0,0,-1,0,0
+74,With respect to expressing your feelings You do not easily express anger and do not show wide range of feeling which are short lived,0,0,0,-3,0,0,0,0,0
+75,"With respect to expressing your feelings Your feelings are quite short lived and you display wide range of emotions like anger, frustration, delight or excitement",0,0,0,3,0,0,0,0,0
+76,If a relationship is not working You try to rework and find it difficult to let go,0,0,-2,-3,-2,0,0,-2,0
+77,If a relationship is not working You don’t like clinging on and feel letting go is better,0,-1,0,-3,0,0,-1,0,0
+78,You tend to focus on others and empower them based on Their feelings and wants; altering your beliefs,3,0,0,0,0,0,-1,0,0
+79,You tend to focus on others and empower them based on Your sense of justice that you feel is important,3,0,0,0,0,0,-1,0,0
+80,While not happy about something You find it difficult to show your feelings or anger and use indirect approaches,0,0,0,0,0,0,0,0,0
+81,While not happy about something You directly communicate your aggression or disappointment,0,0,0,0,0,0,0,0,3
+82,When you are frustrated You tend to make others feel guilty of it may be by dramatizing the suffering,0,-1,0,0,0,0,0,0,0
+83,When you are frustrated You push hard to get what you want may be by using direct threats,2,0,3,0,0,3,0,3,-3
+84,While mingling with people You tend to alter your views/opinions ( lose your real self) to be accepted and sometimes become over friendly,0,3,0,0,0,-2,0,0,0
+85,While mingling with people You are welcoming but do not alter your opinions to be accepted and also do not invade in people’s personal space,0,-1,0,0,0,0,0,0,0
+86,While focussing on others’ needs and feelings You want a bit of appreciation and love from others,0,3,0,0,0,0,0,0,3
+87,While focussing on others’ needs and feelings Attention or appreciation from others do not matter much may be because you want to be independent and safe from their influence,0,3,0,0,0,0,0,0,0
+88,While in conflicts You tend to remind others how much they are indebted to you for your help,3,3,0,0,0,0,0,0,3
+89,While in conflicts You tend to become silent or avoid further conflicts,0,0,0,0,0,0,2,0,0
+90,You Are able to easily focus on your goals by letting go off your feelings or desires,0,-1,0,-3,0,0,0,0,0
+91,You Are not able to focus on your goals and find it difficult to let go off your feelings and desires,0,-1,0,-3,0,0,-1,0,0
+92,While feeling emotional at work you Focus your task and are able to ignore your feelings,0,3,0,-3,0,0,0,0,0
+93,While feeling emotional at work you First need time to sort out your feelings and then proceed working,0,0,0,-3,0,0,0,0,0
+94,Most of the time you find yourself to be Socially confident with positive self-image,0,0,0,0,0,0,0,0,0
+95,Most of the time you find yourself to be Socially uncomfortable with underconfident self image,0,-1,0,0,0,0,0,0,0
+96,You Are always up for work and work is more continuous for you with little or no breaks at all so that you are not perceived as sluggish,-2,0,3,0,-1,0,-3,0,1
+97,You Are energetic in intervals with distinct periods of withdrawal and recharge yourselves by thinking things over,3,0,0,-3,-1,0,2,0,0
+98,You engage yourself in any task / subject To take it as a stepping stone to achieve your final goal and are quick to change your subject if it does not give you success or contribute in your final goal.,0,0,-2,0,0,0,2,3,0
+99,You engage yourself in any task / subject To acquire knowledge and learn and do not care about the final goal in doing so; also you will not stop doing a particular thing until you or the subject or both are exhausted by its content,3,0,0,-3,0,-2,2,0,0
+100,You Care about having a good self image ( both looks and intellect) and work towards maintaining it,-2,3,0,-3,0,1,0,0,0
+101,You Do not care about how you look or are seen as and follow your mind to acquire knowledge and do your work,-2,0,0,0,-2,0,0,0,0
+102,You Are self mobilised to work towards your set goal to achieve appreciation and recognition and like them,0,3,0,0,0,0,-1,3,0
+103,You Are reluctant to start working as you are uncertain of your goal and fear pitfalls and are uncomfortable with appreciation and recognition and doubt them,-2,0,0,0,0,0,0,0,0
+104,"You Want to be in the front ,known by all and in the limelight",0,0,0,3,0,0,0,0,0
+105,You Do not want to be in the spotlight because with fame comes the fear of being blamed later for things that go wrong,-2,0,0,3,0,-2,2,0,0
+106,Choose the one which describes you more  Success oriented and optimistic,0,3,0,0,0,1,-1,-2,0
+107,Choose the one which describes you more  Security oriented and generally pessimistic,0,0,0,0,0,1,2,0,0
+108,You Focus on your set goal and ignore your own pleasures in order to achieve success and maintain a good self image,3,0,0,0,0,0,-1,-1,0
+109,You Focus on your own pleasures and desires and believe in keeping your options open in order to to achieve personal entitlement,0,0,0,0,0,0,-1,0,0
+110,"You Focus on receiving constant stimulation, making worthwhile experiences and feel happy without any tendency to showing it off to anyone",0,0,0,-3,0,0,0,0,0
+111,You Focus on showing others that you are having a good time and might want others to feel jealous about it,0,3,0,0,0,0,0,0,0
+112,"You project the following image Cool, self controlled, perfectly together, without any problems",0,0,0,3,0,0,0,0,0
+113,"You project the following image Do not censor yourself and are funny, unrestricted, may be impulsive",0,0,0,0,0,0,0,0,0
+114,You see failure As a personal humiliation and dread failures,0,0,0,0,0,-2,0,3,1
+115,You see failure As an opportunity to learn and do not highly fear failing,0,0,0,0,0,-2,-1,0,0
+116,For you Success and recognition is more important than power and authority,3,0,3,0,0,0,-1,-2,3
+117,For you Power and authority is more important than success and recognition,3,3,0,0,0,0,2,0,3
+118,You are Highly competitive and do not argue with people to prove that you are right (conscious of your image),0,0,0,0,0,0,0,0,0
+119,You are Self assertive and argue with people to come to the right point,-2,0,0,0,0,0,2,0,0
+120,"You Are fast paced, efficient , focussed and are impatient when obstruction comes their way in terms of others views, opinions etc",-2,0,0,0,-1,0,2,0,0
+121,"You Are slow paced,readily welcome others opinions and views and also may substitute their agendas over yours",0,0,0,-3,0,0,0,0,-3
+122,You Are a self starter and take initiative to do things,3,0,0,0,-2,0,-1,-2,0
+123,You Find it difficult to self start and seek others to keep you motivated,0,0,0,0,0,-2,-1,-1,0
+124,You Want to seek attention of people who are important to you and work to get that,0,-1,0,0,0,0,0,0,0
+125,You You feel it is awkward to ask for attention and distant yourself easily.,0,-1,0,-3,0,0,0,0,0
+126,You are: Emotional and okay with sharing your feelings with others with less personal boundaries preferred,0,3,0,0,0,0,0,0,3
+127,"You are: Do not feel like sharing your emotions with many people and want to keep clear personal boundaries, might feel detached sometime",0,-1,0,-3,0,0,0,0,0
+128,"Your work includes more of Imagination and fantasies, may be about you, your close relatives or based on your experiences",0,0,0,3,0,0,0,0,0
+129,"Your work includes more of What you observe or see around, may be based on experiments. more about reality less autobiographical.",0,0,0,-3,3,1,2,0,0
+130,To understand yourself or others You try to undertstand the feelings or emotions,0,3,0,-3,0,0,0,0,0
+131,To understand yourself or others You try to comprehend the logics ,0,0,0,0,3,1,-1,0,0
+132,"For you, It is okay to indulge into feelings and longings and think deeply about them to see what is missing that could be fulfilled",0,-1,0,-3,0,1,0,0,0
+133,"For you, One should not be trapped in feelings and longings and think about what might go wrong in doing so",0,-1,0,0,0,1,0,0,0
+134,Choose I am generally alone in life as I find it difficult to form bonds with others,0,-1,0,0,0,0,0,0,0
+135,Choose I can make bonds with others but I fear losing them,0,3,0,0,0,3,0,0,0
+136,Which is more likely to make you depressed When you find that you have lost an opportunity to work on your dreams ,0,0,-2,3,0,0,0,0,0
+137,Which is more likely to make you depressed When you make your higher authority angry or disappointed with you,-2,0,0,0,0,0,0,0,0
+138,"You tend to: Become gloomy and think deeply about emotions, even accepting negative emotions as a part of life",0,0,0,3,0,0,0,-1,0
+139,You tend to: Be happy and avoid pain or negative feelings,0,3,0,0,0,0,0,0,0
+140,You tend to take back memories (eg. a momento) from trips because: It makes you appreciate the beauty of the place or appreciate the momento you bring with you,0,0,0,3,0,0,0,0,0
+141,"You tend to take back memories (eg. a momento) from trips because: It becomes a possession which helps you recall your accomplishment of going to that place, beauty of the object doesn’t matter much but experience does",0,0,0,3,0,0,-1,0,0
+142,"What happens when you get a thing that you wanted to have for too long (eg. shoes, jeans, mobile phone) You are excited and able to appreciate the beauty and possession for quite long",0,0,0,-3,0,0,0,0,0
+143,"What happens when you get a thing that you wanted to have for too long (eg. shoes, jeans, mobile phone) You are excited initially but soon lose interest and want to have something else very soon",0,0,0,-3,0,0,-3,0,0
+144,You tend to Focus on your feelings that might lead to inactivity or losing direction,0,0,0,3,0,0,2,-1,0
+145,You tend to Overcome feeling to focus on work leading to neglection of your feelings at times,0,0,0,3,0,0,0,0,0
+146,While dealing with feelings of hurt or loneliness You find it difficult to let go of them and find it okay to take help of others to overcome,0,-1,0,-3,0,0,0,0,0
+147,While dealing with feelings of hurt or loneliness You think taking help would make you dependent on others and you yourself can get over it,0,-1,0,0,0,0,0,0,0
+148,"You would describe yourself as  Soft, vulnerable, express emotions",0,0,0,0,0,0,0,0,0
+149,"You would describe yourself as  Tough, strong, repress emotions",0,-1,0,0,0,0,0,0,0
+150,You tend to withdraw yourself from people: To protect yourself and give some time to yourself to deal with your emotions,0,-1,0,0,0,0,0,0,0
+151,You tend to withdraw yourself from people: If you find them threatening or if they make you upset,-2,-1,0,0,0,0,0,0,-3
+152,"What is true about you You deal with all realities of life like tragedy, sadness, discomfort or happiness",0,0,0,3,0,0,0,0,0
+153,"What is true about you You want the world to be happy and at peace, you find comfort in ordinary lives",0,-1,0,0,0,0,0,0,0
+154,"Choose one you can better relate to most of the time Pessimistic, moody and negative",0,0,0,3,0,1,0,0,0
+155,"Choose one you can better relate to most of the time Optimistic, easy-going and positive",0,0,0,0,0,1,0,0,0
+156,While dealing with negative feelings You detach from your feelings and delay your response to them,-2,0,0,0,0,0,0,0,1
+157,While dealing with negative feelings You magnify the danger and react immediately (often intensely) most of the times and find it difficult to detach from your feelings,0,0,0,-3,0,0,0,0,0
+158,To come to conclusions: You trust your own minds more than others,0,3,0,0,0,1,0,0,-1
+159,To come to conclusions: You try to find something to trust as you find it difficult to go by your mind alone,0,0,0,0,0,1,0,0,0
+160,"Choose the one which describes you best Eccentric, ignore rules and seek knowledge",3,0,0,0,3,1,2,0,0
+161,"Choose the one which describes you best Relate to tradition, consider rules and seek security",3,0,0,0,0,0,-1,0,0
+162,"You tend to Withdraw yourself from others and you can spend hours alone, reading books, listening to music or working on your project",0,0,0,3,0,0,-1,0,0
+163,"You tend to Stay active, might work with dedication but gets irritated sitting for too long",0,0,1,3,0,3,2,0,-1
+164,You tend to Feel that being optimistic always is unreal and that dark or painful side of life should also be thought upon deeply,-2,0,0,3,0,-2,0,0,0
+165,You tend to Be optimistic and avoid dark or painful side of life,0,0,0,3,0,0,0,0,0
+166,You Think before acting,0,0,0,0,0,-2,0,3,0
+167,You Generally act before thinking much,3,0,0,3,-2,3,-1,0,0
+168,"You Conserve your energy, reduce your desires",2,0,0,0,0,0,0,3,0
+169,"You Expand your energy, express your desires and anger",2,0,0,0,0,0,0,3,0
+170,You Think before acting,0,0,0,0,0,-2,0,3,0
+171,You Generally act before thinking much,3,0,0,3,-2,3,-1,0,0
+172,"Describe yourself  Sensitive, reserved and sometimes feel powerless",-2,3,0,0,0,0,0,0,0
+173,"Describe yourself  Insensitive, aggressive and often feel powerful",0,-1,0,0,0,0,0,0,0
+174,You tend to Detach from others in order to protect yourself or deal with your feelings,0,-1,0,0,0,0,0,0,0
+175,You tend to Find it difficult to detach from others rather blend with them to keep life comfortable and peaceful,0,0,0,-3,-1,0,-1,-1,0
+176,"You are Intense, defensive, strong-minded, and highly resistant to the influence of others",0,0,0,0,0,0,0,0,0
+177,"You are Gentle, patient, easygoing, accommodating and receptive",0,3,0,0,0,0,0,0,3
+178,You Fear being overwhelmed by the world and try to defend yourself intellectually,2,0,0,0,0,0,0,0,-1
+179,You Feel at ease with the world and you desire to merge with others,0,3,0,0,0,0,0,-1,3
+180,For you Pleasure and personal wants are secondary and there is no harm in staying within predefined limits..,0,0,0,-3,0,-2,2,0,0
+181,For you Pleasure and fulfilling personal wants are primary concerns and dislike limitations,0,0,0,0,0,0,2,0,0
+182,"You Look for pitfalls,dangers in situations before doing anything and plan for handling those problems",3,0,0,0,0,3,0,0,-1
+183,"You Look for positive things in situations, believe in going with the flow and plan for multiple possibilities",0,0,0,0,0,1,-1,0,0
+184,Which describes you better Pessimistic but committed and responsible,2,0,0,0,0,3,0,0,0
+185,"Which describes you better Optimistic but irresponsible sometimes, forgetful and want freedom",2,0,0,3,0,0,0,0,0
+186,"You Are hesitant to act, magnify hazards and sometime give way under pressure or doubt",3,0,0,3,0,0,0,0,0
+187,"You Are confident to act,deny dangers and always hold their ground",0,0,0,3,0,0,0,0,-3
+188,"Describe yourself Anxious, unsure and self-doubting",0,0,0,0,0,3,0,0,0
+189,"Describe yourself confident (sometimes over-confident), willful and self-assured",3,0,0,0,0,0,0,0,0
+190,You Are often in doubt and seek assurance of others,-2,0,0,0,0,0,0,0,0
+191,You Are mostly always certain and not in doubt,0,0,0,0,0,-2,0,0,-3
+192,You Are focussed on what could go wrong and maintain personal distance,3,0,0,3,0,0,2,0,0
+193,You Are more people oriented and focus on their requests and claims,0,3,0,0,0,0,0,0,3
+194,You Do not trust others easily and get along with others after careful questioning and tests,-2,3,0,0,0,0,2,0,3
+195,"You Very welcoming, accepting and get along with others before testing or questioning",0,0,0,0,0,0,2,0,3
+196,You Are fast paced in thinking and are quick to respond or react,-2,0,0,0,0,0,2,0,3
+197,You take time to process your thoughts and take time to to respond or react,-2,-1,0,-3,0,0,0,-2,0
+198,"You Tend to escape pain or conflicts, explain away difficulties and plan about future a lot",0,0,0,0,-2,3,-1,0,0
+199,"You Accept pain, confront conflicts directly and mostly stay in the present",0,0,0,0,0,0,0,-1,3
+200,Choose the one that best describes you Playful and optimistic,0,3,0,0,0,1,0,0,0
+201,Choose the one that best describes you Hard working and realistic,2,0,-2,0,0,0,0,3,0
+202,"You want  Variety, freedom and fun",0,0,0,0,0,0,2,1,0
+203,"You want  Intensity, control and power",2,0,0,0,0,0,0,3,-1
+204,"You Are fast paced, short tempered and impulsive in action",0,0,0,3,0,0,0,0,0
+205,"You Are steady paced, even tempered and cautious in action",0,0,0,3,-1,0,0,3,-3
+206,You Are self oriented and tend to express your own desires and opinions,0,-1,0,0,0,0,0,0,0
+207,You Are people oriented and consider others desires/ opinions and may forget your own,0,-1,0,-3,0,0,0,0,0
+208,"You are Hyperactive, involved and assertive",0,0,0,0,-1,0,2,0,0
+209,"You are Passive, less responsive and compliant",0,0,0,0,0,0,0,-1,0
+210,You Accept conflicts and express anger directly,0,-1,0,0,0,0,0,-1,0
+211,You Avoid conflicts and hide anger,0,0,0,0,0,0,0,-1,-1
+212,You Focus on your own opinions or agendas and defend them strongly,-2,0,0,0,0,1,-1,0,0
+213,You Focus on others opinions or agendas and can lose your own,0,0,0,0,0,1,-1,0,0
+214,You Are clear about your views and are decisive,3,0,0,0,0,-2,-1,0,0
+215,"You Are unclear about your opinions, indecisive and often go along with what others say",0,0,0,0,0,1,0,0,0
