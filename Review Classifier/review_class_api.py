@@ -1,4 +1,6 @@
 """
+	Author: Mudit Soni
+	
 	Usage:
 	# Browser 
 	http://127.0.0.1:5000/predict?text=The_instructor_is_funny
